@@ -1,0 +1,79 @@
+GOOGLE ADS - DEMAND GEN CAMPAIGN ASSETS
+Sunlit Pantry (australian recipe and home cooking site)
+
+All copy in this file is a starting draft. It must be reviewed against current
+Google Ads editorial policy, and against the advertiser's own substantiated
+claims, before any of it is used in a live campaign. Character counts shown in
+square brackets include spaces and punctuation. Australian English throughout.
+
+================================================================
+BUSINESS NAME (25 characters max)
+================================================================
+Sunlit Pantry [13]
+
+================================================================
+HEADLINES (40 characters max)
+================================================================
+Australian Recipes in Metric [28]
+Weeknight Dinners for Aussie Cooks [34]
+Recipes With a Metric and Cups Toggle [37]
+Seasonal Cooking, Australian Seasons [36]
+Free Weekly Meal Plans and Lists [32]
+Cooking Tested in a Home Kitchen [32]
+Dinner Ideas for Busy Weeknights [32]
+Baking Recipes Weighed in Grams [31]
+Barbecue Recipes for Summer [27]
+Vegetarian Dinners for the Table [32]
+Cook What Is in Season This Month [33]
+One Shop, Five Dinners [22]
+Fan-Forced Oven Temperatures [28]
+Simple Recipes for Every Night [30]
+Australian Cup and Spoon Guides [31]
+
+================================================================
+LONG HEADLINES (90 characters max)
+================================================================
+Australian recipes written in metric, with a cups toggle on every recipe page [77]
+Weeknight dinners on the table in forty minutes, from an ordinary weekly shop [77]
+Free weekly meal plans with the shopping list already grouped by aisle [70]
+Baking recipes weighed in grams, with fan-forced temperatures beside every setting [82]
+A seasonal produce guide written for Southern Hemisphere growing seasons [72]
+Barbecue recipes written for a hooded gas barbecue and a flat grill plate [73]
+Vegetarian and vegan recipes with the dairy and egg swaps written into them [75]
+Prep time, cook time, servings, storage and allergen notes on every recipe [74]
+Recipes cooked more than once in a home kitchen before they are published [73]
+Australian ingredient names, Australian measures and Australian growing seasons [79]
+
+================================================================
+DESCRIPTIONS (90 characters max)
+================================================================
+Browse Australian recipes in metric, with an Australian cups toggle on every page. [82]
+Weeknight dinners, baking, barbecue and vegetarian recipes for Australian cooks. [80]
+Free weekly meal plans with a shopping list grouped by aisle. No signup needed. [79]
+Prep time, cook time, servings, storage and allergen notes on every recipe. [75]
+Cook with what is in season, using a guide built for Australian growing seasons. [80]
+Baking in grams, with a fan-forced temperature beside every oven setting. [73]
+Tickable ingredient lists and a servings scaler that recalculates quantities. [77]
+Barbecue recipes for a hooded gas barbecue, from whole fish to corn on the grill. [81]
+Vegetarian and vegan dinners with the swaps written into the recipe itself. [75]
+Kitchen conversions for the Australian 250 ml cup and 20 ml tablespoon. [71]
+
+================================================================
+CALL TO ACTION SUGGESTIONS (from Google's standard set)
+================================================================
+Learn more [10]
+See more [8]
+Sign up [7]
+Subscribe [9]
+Visit site [10]
+
+================================================================
+NOTES FOR WHOEVER RUNS THIS CAMPAIGN
+================================================================
+- Every line is written to stand alone, because Google mixes assets.
+- No superlatives, no health or nutritional claims, no urgency, no prices.
+- No all-caps words, no repeated punctuation, no emoji, no phone numbers.
+- Angles are varied on purpose: speed, seasonality, budget, skill level,
+  family cooking, entertaining and dietary options.
+- Landing page should match the asset that led to it. Meal plan copy should
+  point at the meal plans page, not the home page.

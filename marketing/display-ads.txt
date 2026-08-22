@@ -1,0 +1,76 @@
+GOOGLE ADS - RESPONSIVE DISPLAY CAMPAIGN ASSETS
+Sunlit Pantry (australian recipe and home cooking site)
+
+All copy in this file is a starting draft. It must be reviewed against current
+Google Ads editorial policy, and against the advertiser's own substantiated
+claims, before any of it is used in a live campaign. Character counts shown in
+square brackets include spaces and punctuation. Australian English throughout.
+
+================================================================
+BUSINESS NAME (25 characters max)
+================================================================
+Sunlit Pantry [13]
+
+================================================================
+SHORT HEADLINES (30 characters max)
+================================================================
+Australian Recipes [18]
+Easy Weeknight Dinners [22]
+Metric and Cups Toggle [22]
+Free Weekly Meal Plans [22]
+Baking Weighed in Grams [23]
+Recipes for the Barbecue [24]
+Seasonal Produce Guide [22]
+Vegetarian Dinner Ideas [23]
+One Shop, Five Dinners [22]
+Home Cooking, Tested [20]
+Dinner in Forty Minutes [23]
+Australian Conversions [22]
+Cook What Is in Season [22]
+Shopping Lists by Aisle [23]
+Fan-Forced Temperatures [23]
+
+================================================================
+LONG HEADLINE (90 characters max)
+================================================================
+Australian recipes in metric, with a cups toggle on every recipe page [69]
+Free weekly meal plans with the shopping list already grouped by aisle [70]
+Weeknight dinners on the table in forty minutes, from an ordinary shop [70]
+Baking weighed in grams, with fan-forced temperatures beside every setting [74]
+Seasonal cooking for Australian growing seasons, month by month [63]
+
+================================================================
+DESCRIPTIONS (90 characters max)
+================================================================
+Australian recipes in metric, with an Australian cups toggle on every page. [75]
+Weeknight dinners, baking, barbecue and vegetarian recipes in one place. [72]
+Free weekly meal plans with a shopping list grouped by aisle. [61]
+Prep, cook and total times, servings, storage and allergen notes on every recipe. [81]
+A produce guide written for Australian seasons, updated month by month. [71]
+Baking in grams, with a fan-forced temperature beside every oven setting. [73]
+Tickable ingredient lists and a servings scaler built into every recipe. [72]
+Barbecue recipes written for a hooded gas barbecue and a flat grill plate. [74]
+Vegetarian and vegan dinners with the swaps written into the recipe. [68]
+Conversions for the Australian 250 ml cup and the 20 ml tablespoon. [67]
+
+================================================================
+CALL TO ACTION SUGGESTIONS
+================================================================
+Learn more [10]
+See more [8]
+Sign up [7]
+Subscribe [9]
+Visit site [10]
+
+================================================================
+NOTES FOR WHOEVER RUNS THIS CAMPAIGN
+================================================================
+- Short headlines are truncated aggressively in small display placements.
+  The shortest lines in this list are the safest across placement sizes.
+- Images supplied separately must be original photography the advertiser
+  owns or is licensed to use. Do not use site photography without checking
+  the licence for each image.
+- Keep the logo and business name consistent with the site wordmark.
+- No superlatives, no health or nutritional claims, no urgency, no prices.
+- Australian English spelling throughout. Review against current Google Ads
+  editorial policy before the campaign goes live.
